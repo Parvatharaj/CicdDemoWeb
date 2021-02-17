@@ -8,6 +8,6 @@ export class ConfigurationService {
   constructor() { }
 
   get apiHost(): string{
-    return 'http://localhost:8080';
+    return 'http://localhost:8009';
   }
 }
